@@ -3,7 +3,6 @@ File: file_system.py
 Name: Ezra Enchill
 Date: 12/1/2022
 Lab Section: 42
-Email: ezrae1@umbc.edu
 Description: Project 3
 """
 def mkdir(d_name, dir_name): 
