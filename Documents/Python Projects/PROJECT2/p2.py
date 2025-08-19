@@ -3,7 +3,6 @@ File: p2.py
 Author: Ezra Enchill
 Date: 11/18/2022
 Lab Section: 42
-Email:  ezrae1@umbc.edu
 Description:  Project 2 roster check
 """
 

@@ -1,9 +1,8 @@
 """
 File: p1.py
-Author: YOUR NAME
-Date: THE DATE
-Lab Section: YOUR LAB Section
-Email:  YOUREMAIL@umbc.edu
+Author: Ezra Enchill
+Date: 11/4/2022
+Lab Section: 42
 Description:  This program shows the layout of code in a Python file, and greets
 the user with the name of the programmer
 """
